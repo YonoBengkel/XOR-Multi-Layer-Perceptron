@@ -67,25 +67,5 @@ Pada notebook [`XOR_Multi_Perceptron.ipynb`](XOR_Multi_Perceptron.ipynb), evalua
 ├── .gitignore                   # Konfigurasi pengabaian file temporary/cache
 └── README.md                    # Dokumentasi proyek
 ```
-
----
-
-## 🚀 Cara Menjalankan
-
-1. **Clone repository ini**:
-   ```bash
-   git clone https://github.com/YonoBengkel/XOR-Multi-Layer-Perceptron.git
-   cd XOR-Multi-Layer-Perceptron
-   ```
-
-2. **Kebutuhan Pustaka**:
-   Pastikan telah terpasang:
-   ```bash
-   pip install numpy matplotlib pillow jupyter
-   ```
-
-3. **Buka Notebook**:
-   ```bash
-   jupyter notebook XOR_Multi_Perceptron.ipynb
    ```
    Atau jalankan langsung melalui Visual Studio Code.
