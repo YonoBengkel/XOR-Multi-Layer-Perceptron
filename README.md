@@ -67,5 +67,3 @@ Pada notebook [`XOR_Multi_Perceptron.ipynb`](XOR_Multi_Perceptron.ipynb), evalua
 ├── .gitignore                   # Konfigurasi pengabaian file temporary/cache
 └── README.md                    # Dokumentasi proyek
 ```
-   ```
-   Atau jalankan langsung melalui Visual Studio Code.
